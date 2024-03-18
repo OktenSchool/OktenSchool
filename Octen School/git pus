@@ -1,0 +1,34 @@
+[1mdiff --git a/main.js b/main.js[m
+[1mindex 1b1bff3..2ee0481 100644[m
+[1m--- a/main.js[m
+[1m+++ b/main.js[m
+[36m@@ -754,17 +754,20 @@[m [mfor (let user of users) {[m
+     if (user.age > 30) {[m
+         console.log(user);[m
+     }[m
+[31m-}[m
+[31m-[m
+[31m-for (let user of users) {[m
+[31m-    if (user.status === true) {[m
+[31m-        console.log(user);[m
+[32m+[m[32m    for (let user of users) {[m
+[32m+[m[32m        if (user.status === true) {[m
+[32m+[m[32m            console.log(user);[m
+[32m+[m[32m        }[m
+     }[m
+[31m-}[m
+ [m
+[31m-for (let user of users) {[m
+[31m-    if (user.status === false) {[m
+[31m-        console.log(user);[m
+[32m+[m[32m    for (let user of users) {[m
+[32m+[m[32m        if (user.status === false) {[m
+[32m+[m[32m            console.log(user);[m
+[32m+[m[32m        }[m
+     }[m
+ }[m
+ [m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m

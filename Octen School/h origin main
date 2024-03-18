@@ -1,0 +1,48 @@
+[33mcommit a03383982a4669b60388beeaf3f7b107616be8cd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Stupid devologer <roman300kuzhel@gmail.com>
+Date:   Mon Mar 4 19:10:01 2024 +0200
+
+    lesson 5
+
+[33mcommit 1e34f77e6852e6a02b2b0d2c6194e344a4d2b446[m
+Author: Stupid devologer <roman300kuzhel@gmail.com>
+Date:   Thu Feb 29 21:12:50 2024 +0200
+
+    Ваш коментар до коміту
+
+[33mcommit b8069871c669dd5a25502608e390bfb338649d70[m
+Merge: 213d95e b63b3c9
+Author: Stupid devologer <roman300kuzhel@gmail.com>
+Date:   Tue Feb 27 19:57:45 2024 +0200
+
+    Ваше повідомлення коміту
+
+[33mcommit 213d95e0d4c6859ae60f7e1fa914411aa604f53a[m
+Author: Stupid devologer <roman300kuzhel@gmail.com>
+Date:   Tue Feb 27 19:37:58 2024 +0200
+
+    Вирішено конфлікт у файлі main.js
+
+[33mcommit 3cfc1cbf94c3fa47d00a5c85ee3e48d645f9b3d9[m
+Author: Stupid devologer <roman300kuzhel@gmail.com>
+Date:   Tue Feb 27 18:07:33 2024 +0200
+
+    Lesson 3
+
+[33mcommit b63b3c9a2ef11a3e8bb8c13c33112ec3c9736e8c[m
+Author: Stupid developer <roman300kuzhel@gmail.com>
+Date:   Sun Feb 25 17:27:32 2024 +0200
+
+    Update main.js
+
+[33mcommit bc2b828b0aaa6827fdd10927d9c11c7d8e9fe0d3[m
+Author: Stupid devologer <roman300kuzhel@gmail.com>
+Date:   Sun Feb 25 17:21:30 2024 +0200
+
+    Коміт lesson2
+
+[33mcommit 3bceaa1228c3384fda084ff5a814558567b8f0be[m
+Author: Stupid devologer <roman300kuzhel@gmail.com>
+Date:   Thu Feb 22 18:10:56 2024 +0200
+
+    Додавання нового файлу
